@@ -1,5 +1,4 @@
-{
-    "screens": [
+"screens": [
         {
             "screenId": "TestWii",
             "refreshIntervalInMillis": 1123200000,
